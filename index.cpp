@@ -11,7 +11,7 @@ int main() {
 
     sum = num1 + num2;
 
-    std::cout << "The sum of the numbers is now: " << sum << std::endl;
+    std::cout << "The sum of the numbers:" << sum << std::endl;
     std::cout << "Calculation complete!" << std::endl;
     return 0;
 }
